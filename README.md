@@ -3,6 +3,8 @@ A collection of small OpenGL exercises developed in C during an undergraduate co
 
 The EXE files have been tested in Windows 8 (64 bits) and Windows XP (32 bits).
 
+Texture files are copyrighted and are used only for educational purposes.
+
 ## Animations
 
 Navigate with the arrow keys.
