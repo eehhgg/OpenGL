@@ -1,0 +1,17 @@
+collisions          1
+player_speed        150
+grid_size           10
+far_clip_dist       700
+##seed              12345
+fog                 0
+fog_brightness      0.9
+ambient_brightness  0.1
+interval            30
+
+str_initializing    initializing
+str_creating        creating maze
+str_drawing         drawing maze
+str_loading         loading images
+str_finishing       finishing
+str_welcome         Welcome to the maze
+str_goal            Well done, you have found the exit.

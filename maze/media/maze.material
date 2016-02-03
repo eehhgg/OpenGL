@@ -1,0 +1,76 @@
+material Maze/Sky
+{
+	technique
+	{
+		pass
+		{
+			lighting off
+			depth_write off
+
+			texture_unit
+			{
+				texture sky.jpg
+			}
+		}
+	}
+}
+
+material Maze/GrassFloor
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture grass_1024.jpg
+			}
+		}
+	}
+}
+
+material Maze/Rockwall
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture rockwall.tga
+			}
+		}
+	}
+}
+
+material Maze/Flare
+{
+	technique
+	{
+		pass
+		{
+			lighting off
+			scene_blend add
+			depth_write off
+			diffuse vertexcolour
+
+			texture_unit
+			{
+				texture flare.png
+			}
+		}
+	}
+}
+
+material Maze/Marker
+{
+	technique
+	{
+		pass
+		{
+			lighting on
+			ambient vertexcolour
+			diffuse vertexcolour
+		}
+	}
+}

@@ -1,0 +1,17 @@
+collisions          1
+player_speed        150
+grid_size           30
+far_clip_dist       700
+##seed              12345
+fog                 0
+fog_brightness      0.9
+ambient_brightness  0.1
+interval            30
+
+str_initializing    inicializando
+str_creating        creando laberinto
+str_drawing         dibujando laberinto
+str_loading         cargando imágenes
+str_finishing       finalizando
+str_welcome         Bienvenido al laberinto
+str_goal            Encontraste la salida.

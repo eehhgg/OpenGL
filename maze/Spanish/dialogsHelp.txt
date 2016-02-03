@@ -1,0 +1,3 @@
+¿Buscas la salida? Está a $pathSize celdas.
+Te ayudaré un poco. La salida está a $pathSize celdas.
+Estás a $pathSize celdas de la salida.

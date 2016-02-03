@@ -1,0 +1,33 @@
+art-museum-strongoli-by-coop-himmelblau-0.jpg
+¿Ya viste el proyecto del Museo Strongoli? Está a $pathSize celdas de aquí.
+El Museo de Arte Strongoli será construido por la firma australiana Coop Himmelblau en Calabria, Italia. No sólo será un centro cultural, sino también un impulsor del desarrollo en Calabria.
+
+
+nanyang1.jpg
+Ven por aquí, te mostraré la Escuela de Arte de la Universidad Tecnológica de Nanyang. Está a $pathSize celdas.
+La Escuela de Arte de la Universidad Tecnológica de Nanyang, en Singapur, es un edificio de 5 pisos con una forma orgánica y vegetal, que entrelaza paisaje y estructura, naturaleza y alta tecnología.
+
+
+rice_art11.jpg
+A $pathSize celdas de aquí podrás ver las figuras de los campos de arroz de Inakadate.
+Cada año, los granjeros de Inakadate, Japón, crean obras de arte cultivando diferentes tipos de arroz. Esta figura, elaborada en 2007, reproduce dos impresiones de la colección "36 Vistas del Monte Fuji", de Hokusai.
+
+
+museum-contemporary-art-kazuyo-sejima-ryue-nishizawa-sanaa2.jpg
+¿Conoces el Museo Nuevo, en Nueva York? Está a $pathSize celdas.
+El Museo Nuevo es el único en Nueva York que está dedicado exclusivamente a presentar obras de arte contemporáneo de todo el mundo. El edificio fue diseñado por las firmas SANAA y Gensler, y abrió sus puertas en diciembre de 2007.
+
+
+434px-Clo_Baril_Nature_et_Architecture19_(huile_sur_toile_130x90).jpg
+Si vienes por aquí podrás ver "Nature et Architecture", de ZeeMusicParis (a $pathSize celdas).
+"Nature et Architecture". ZeeMusicParis, óleo sobre tela, 2010.
+
+
+2376032026_6fba2de03d_z.jpg
+¿Sabes en qué se parecen una vaca y una rana? La respuesta está a $pathSize celdas.
+"Rana Calzonuda del Bosque Lluvioso". Gisele Arias Molina, Cow Parade 2008, Costa Rica.
+
+
+3295079732_5fe086bca3.jpg
+A $pathSize celdas de aquí encontrarás a "Titanic Cow".
+"Titanic Cow". Lithium, Cow Parade 2009, España.

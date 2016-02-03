@@ -1,0 +1,3 @@
+Looking for the exit? It is $pathSize cells from here.
+Ok, I will help you a little. The exit is $pathSize cells from here.
+You are $pathSize cells away from the exit.
