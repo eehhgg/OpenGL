@@ -24,6 +24,7 @@ Navigate with the arrow keys, F and G.
 
 This is a prototype of a maze videogame that tries to recognize and adapt to the user's emotions. The maze is generated randomly and several of its parameters can be adjusted in the file configFile.txt.
 
+The project was presented at an artificial intelligence conference held in 2011 in Dubai. You can read more about it in [maze_article.pdf](maze_article.pdf) and also see a video on [youtube](https://youtu.be/FsO0SZUyVEc).
 
 This folder does not include an EXE file because it uses graphics libraries that have become obsolete, but the game assets and source files are included for the record. It would be funny to port this game to a newer platform.
 
@@ -32,6 +33,6 @@ This folder does not include an EXE file because it uses graphics libraries that
 
 ## World clock
 
-Click and drag to rotate. Right click to open an options menu.
+Click and drag to rotate. Use the Left and Right keys to move the meridian. Right click to open an options menu.
 
 ![3D World clock](world_clock.jpg)
